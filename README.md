@@ -12,7 +12,7 @@
 ## 📬 প্রজেক্ট লিঙ্ক (Submission Links)
 
 - **🌐 লাইভ সাইট (Live Link):** [https://bazardor.vercel.app](https://bazardor.vercel.app) *(ডিপ্লয়মেন্ট লিংক এখানে যুক্ত করুন)*
-- **📂 গিটহাব রিপোজিটরি (GitHub Repo):** [https://github.com/ProgrammingHero1/B14-A7-Bazar-Dor](https://github.com/ProgrammingHero1/B14-A7-Bazar-Dor)
+- **📂 গিটহাব রিপোজিটরি (GitHub Repo):** [https://github.com/hsanjida/B14-A7-Bazar-Dor](https://github.com/hsanjida/B14-A7-Bazar-Dor)
 
 ---
 
