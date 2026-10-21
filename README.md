@@ -11,7 +11,7 @@
 
 ## 📬 প্রজেক্ট লিঙ্ক (Submission Links)
 
-- **🌐 লাইভ সাইট (Live Link):** [https://bazardor.vercel.app](https://bazardor.vercel.app) *(ডিপ্লয়মেন্ট লিংক এখানে যুক্ত করুন)*
+- **🌐 লাইভ সাইট (Live Link):** [https://bazardor-five-jet.vercel.app](https://bazardor.vercel.app)
 - **📂 গিটহাব রিপোজিটরি (GitHub Repo):** [https://github.com/hsanjida/B14-A7-Bazar-Dor](https://github.com/hsanjida/B14-A7-Bazar-Dor)
 
 ---
@@ -100,10 +100,4 @@ npm start
 - **C2. তথ্যবহুল README (GitHub README):** প্রজেক্টের সামগ্রিক পরিচিতি, ফিচার, আর্কিটেকচার ও রান করার নির্দেশনাসহ পূর্ণাঙ্গ ডকুমেন্টেশন।
 - **C3. তথ্য আপডেট ফিচার (Update Information Feature):** `/profile` রুটে নাম আপডেটের জন্য ফর্ম যুক্ত করা হয়েছে, যা BetterAuth প্যাটার্ন অনুযায়ী তাৎক্ষণিকভাবে ইউজারের নাম হালনাগাদ করে।
 
----
 
-## 🎨 ডিজাইন সামঞ্জস্য (Design Compliance)
-
-- পেনপট এবং ফিগমা ফাইলের কালার প্যালেট (`#fafcfa`, `#f0f5f0`, `#05893e`, `#1d271f`, `#d03739`, `#1a9951`) শতভাগ অনুসরণ করা হয়েছে।
-- বাংলা ফন্ট `Hind Siliguri` ব্যবহারের মাধ্যমে সুনির্দিষ্ট টাইপোগ্রাফি নিশ্চিত করা হয়েছে।
-- মোবাইল, ট্যাবলেট ও ডেস্কটপ—সব ডিভাইসে সমানভাবে ব্যবহারোপযোগী লেআউট।
