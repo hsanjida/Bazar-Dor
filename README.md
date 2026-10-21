@@ -11,7 +11,7 @@
 
 ## 📬 প্রজেক্ট লিঙ্ক (Submission Links)
 
-- **🌐 লাইভ সাইট (Live Link):** [https://bazardor-five-jet.vercel.app](https://bazardor.vercel.app)
+- **🌐 লাইভ সাইট (Live Link):** [https://bazardor-five-jet.vercel.app](https://bazardor-five-jet.vercel.app)
 - **📂 গিটহাব রিপোজিটরি (GitHub Repo):** [https://github.com/hsanjida/B14-A7-Bazar-Dor](https://github.com/hsanjida/B14-A7-Bazar-Dor)
 
 ---
